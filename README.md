@@ -8,7 +8,7 @@ Visualizing speeding ticket data based on Kaggle's Montgomery county.
 * Naomi 
 * Joshua
 * Alan
-* Dillon
+* Dylan
 * Junli 
 * Richa
 
