@@ -21,5 +21,5 @@ Visualizing speeding ticket data based on Kaggle's Montgomery county.
 ## Conclusion
 
 ## References
-https://www.kaggle.com/somesnm/partynyc/data
-https://www.kaggle.com/jana36/us-traffic-violations-montgomery-county-polict/data
+* https://www.kaggle.com/somesnm/partynyc/data
+* https://www.kaggle.com/jana36/us-traffic-violations-montgomery-county-polict/data
